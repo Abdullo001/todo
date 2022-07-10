@@ -1,0 +1,45 @@
+form {
+	margin: 0 auto;
+	margin-bottom: 20px;
+	width: 500px;
+}
+
+.js-input {
+	display: inline-block;
+	width: 420px;
+	margin-right: 10px;
+}
+
+.box1 {
+	margin: 0 auto;
+	width: 500px;
+}
+
+.js-list {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+
+li {
+	display: flex;
+	align-items: center;
+	margin-bottom: 10px;
+}
+
+li > input {
+	margin-right: 10px;
+}
+
+li > span {
+	margin-right: 10px;
+}
+
+.calc {
+	display: inline-block;
+	padding: 5px 20px;
+	font-size: 18px;
+	font-weight: bold;
+	border: 2px solid #3433;
+	border-radius: 8px;
+}
